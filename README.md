@@ -1,5 +1,7 @@
 <h1 align="center"> Posyandu-Line </h1>
 
+![image](https://github.com/rendychristiann/posyandu-line-AI/assets/78911479/e60acddf-c8eb-4112-b31d-d8b2ba2a440a)
+
 <p align="center"> 
 Posyandu-Line is a digital posyandu platform that provides access to monitoring children's posyandu records, detailed posyandu information, health worker information, articles, along with AI features for early stunting detection.
 </p>
